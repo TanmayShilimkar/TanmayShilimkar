@@ -1,308 +1,347 @@
-Tanmay Shilimkar
+<div align="center">
 
-Full Stack Software Developer | React.js | Next.js | Java | Spring Boot
+<a href="https://capsule-render.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=TANMAY%20SHILIMKAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+</a>
 
-<p align="center">
-  <strong>Building scalable, secure, and high-performance web applications with modern full-stack technologies.</strong>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Software+Developer;React.js+%7C+Next.js+%7C+Java+%7C+Spring+Boot;RESTful+APIs+%7C+Spring+Security+%7C+MySQL;Scalable+%26+Secure+Enterprise+Applications;Performance+Optimization+%7C+Cloud+%7C+Docker" alt="Typing SVG"/>
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-6C5CE7?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-4F46E5?style=for-the-badge" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-7C3AED?style=for-the-badge" alt="Backend" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4338CA?style=for-the-badge" alt="Database" />
-</p>
+<br/>
 
-About Me
+<img src="https://img.shields.io/badge/M.Sc.%20Computer%20Science-8.5%20CGPA-6D28D9?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-7.5%20CGPA-4C1D95?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-7C3AED?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Location-Pune%2C%20India-6366F1?style=for-the-badge&labelColor=111827"/>
 
-I am a results-oriented Full Stack Software Developer with 4 years of experience designing and developing scalable, high-performance web applications using React.js, Next.js, Java, Spring Boot, and MySQL.
+<br/><br/>
 
-My experience includes building responsive frontend applications, developing secure RESTful APIs, implementing authentication and authorization workflows, integrating third-party services, and creating reusable software components.
+<a href="https://github.com/TanmayShilimkar">
+  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shilimkartanmay@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/TanmayShilimkar">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-I focus on:
+<br/><br/>
 
-Scalable and maintainable application architecture
+<img src="https://komarev.com/ghpvc/?username=TanmayShilimkar&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/TanmayShilimkar?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
+<img src="https://img.shields.io/github/stars/TanmayShilimkar?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=7C3AED"/>
 
-Reusable component-based development
+</div>
 
-REST API design and integration
+---
 
-Secure authentication and authorization
+## ABOUT
 
-Database design and optimization
+Full Stack Software Developer with **4+ years of professional experience** designing and developing scalable, secure, and high-performance web applications using **React.js, Next.js, Java, Spring Boot, Spring Security, JWT, REST APIs, and MySQL**.
 
-Performance optimization
+Experienced across the complete software development lifecycle — from requirements analysis and system design to backend architecture, frontend engineering, database design, API integration, testing, debugging, deployment, and performance optimization.
 
-Responsive UI development
+Strong focus on **enterprise application engineering, reusable component architecture, secure authentication and authorization, RESTful API development, responsive interfaces, database optimization, and production reliability**.
 
-CI/CD and containerized deployments
+Hands-on experience delivering applications serving **1,000+ active users**, optimizing Lighthouse performance from **60 → 88**, building systems supporting **500+ students**, and reducing manual operational effort by **60%** through workflow automation.
 
-Agile and collaborative software development
+### Open To
 
-Tech Stack
+- Full Stack Software Engineer
+- Java / Spring Boot Developer
+- React.js / Next.js Developer
+- Software Engineer
+- Backend Engineer
+- Product Engineering Roles
+- Enterprise Application Development
+- AI-assisted Software Engineering
 
-Languages
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Java-Core%20Java%20%7C%20Java%208%2B-7C3AED?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-6C5CE7?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-</p>
+## TECH STACK
 
-Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-</p>
-
-Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MVC" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square" alt="REST APIs" />
-</p>
-
-Database, Cloud & DevOps
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,php&theme=dark" />
 </p>
 
-Tools & Engineering Practices
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,html,css,vite,webpack&theme=dark" />
 </p>
 
-Core concepts: OOP · MVC · Microservices · Event-Driven Architecture · Distributed Systems · Multithreading · Concurrency · Agile Scrum · Responsive Design · Performance Optimization
+### Backend & Databases
 
-Professional Experience
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" />
+</p>
 
-Full Stack Developer — OG Advertising Pvt. Ltd.
+**Backend:** Spring Boot · Spring MVC · Spring Security · REST APIs · JWT  
+**Architecture:** Microservices · Event-Driven Architecture · Distributed Systems  
+**Core Engineering:** OOP · MVC · Multithreading · Concurrency
 
-Pune, India · June 2022 – Present
+### Cloud, DevOps & Tooling
 
-Architected and developed scalable applications using React.js, Next.js, Java, and Spring Boot for enterprise platforms serving 1,000+ active users.
+<p>
+<img src="https://skillicons.dev/icons?i=docker,azure,aws,github,githubactions,git,postman&theme=dark" />
+</p>
 
-Built reusable, component-based application architecture to improve maintainability and scalability.
+**Cloud:** Microsoft Azure · Azure Virtual Machines · AWS  
+**CI/CD:** GitHub Actions  
+**Containers:** Docker  
+**Development:** IntelliJ IDEA · Postman · Vite · Webpack  
+**Testing:** JUnit  
+**Practices:** Agile Scrum · Responsive Design · Performance Optimization
 
-Engineered secure payment gateway integrations using RESTful APIs for reliable transaction processing and third-party communication.
+---
 
-Improved frontend performance using lazy loading, code splitting, and asset optimization, increasing the Lighthouse Performance Score from 60 to 88.
+## AI / ML EXPERTISE
 
-Implemented role-based authentication and authorization.
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| AI-Assisted Software Development | Advanced | Practical use of GitHub Copilot and Claude to accelerate development workflows |
+| AI-Assisted Code Generation | Advanced | Code generation, refactoring, implementation assistance, and development acceleration |
+| AI-Assisted Debugging | Advanced | Using AI tooling to investigate implementation issues and improve development efficiency |
+| AI Engineering | Working | Applying AI-assisted development workflows within software engineering projects |
+| Machine Learning | — | No dedicated ML framework or production ML experience is listed in the resume |
 
-Developed secure file upload functionality.
+---
 
-Containerized microservices using Docker.
-
-Deployed services on Azure Virtual Machines through CI/CD pipelines for automated and reliable deployments.
-
-Featured Projects
+## FEATURED PROJECTS
 
 <details>
-<summary><strong>Student Grievance Management System — Symbiosis, Pune</strong></summary>
+<summary><strong>🎓 Student Grievance Management System — Symbiosis, Pune</strong></summary>
 
-Overview
+<br/>
 
-A full-stack REST API-driven grievance management portal designed to automate grievance submission, tracking, mentor assignment, and resolution workflows for 500+ students.
+A full-stack REST API-driven grievance management platform designed to automate grievance submission, tracking, mentor assignment, and resolution workflows for **500+ students**.
 
-Technology Stack
+| Metric | Details |
+|---|---|
+| **Stack** | React.js · Java · Spring Boot · Spring Security · JWT · MySQL · REST APIs · Tailwind CSS |
+| **Scale** | 500+ students |
+| **Performance** | Workflow automation reduced manual query handling time by 60% |
+| **Security** | Spring Security · JWT Authentication · Role-Based Access Control · Password Encryption |
+| **Impact** | Automated grievance lifecycle and communication workflows |
+| **Repository** | [GitHub](https://github.com/TanmayShilimkar) |
 
-React.js Java Spring Boot Spring Security JWT MySQL REST APIs Tailwind CSS
+### Engineering Highlights
 
-Highlights
-
-Architected and developed the complete full-stack grievance management platform.
-
-Automated grievance submission, tracking, and resolution workflows.
-
-Reduced manual query-handling time by 60%.
-
-Implemented secure backend services using Spring Boot, Spring Security, and JWT authentication.
-
-Added role-based access control for students, mentors, and administrators.
-
-Integrated automated email notifications for grievance submission, mentor assignment, and resolution updates.
-
-Implemented input validation, exception handling, and secure password encryption.
-
-Built a responsive user interface following modern software engineering practices.
+- Architected and developed an end-to-end grievance management platform.
+- Designed secure backend services using **Spring Boot, Spring Security, and JWT**.
+- Implemented role-based access control for **students, mentors, and administrators**.
+- Automated email notifications for grievance submission, mentor assignment, and resolution updates.
+- Implemented input validation and centralized exception-handling practices.
+- Designed responsive interfaces using React.js and Tailwind CSS.
+- Applied maintainable software engineering practices across frontend and backend layers.
 
 </details>
 
 <details>
-<summary><strong>Education Management System (EMS)</strong></summary>
+<summary><strong>🏫 Education Management System — EMS</strong></summary>
 
-Overview
+<br/>
 
-A secure, role-based education management platform supporting Admin, Faculty, and Department Coordinator modules.
+A secure role-based education management platform supporting administration, faculty, and department coordination workflows.
 
-Technology Stack
+| Metric | Details |
+|---|---|
+| **Stack** | Next.js · Java · Spring Boot · Spring Security · JWT · MySQL · REST APIs · Tailwind CSS · Chart.js |
+| **Scale** | Multi-role enterprise education platform |
+| **Performance** | Designed for scalable RESTful service architecture and optimized relational data access |
+| **Security** | JWT · Spring Security · Role-Based Access Control · Secure File Upload |
+| **Impact** | Automated attendance, assignment evaluation, examination and result workflows |
+| **Repository** | [GitHub](https://github.com/TanmayShilimkar) |
 
-Next.js Java Spring Boot Spring Security JWT MySQL REST APIs Tailwind CSS Chart.js
+### Engineering Highlights
 
-Highlights
-
-Architected and developed role-based modules for academic administration.
-
-Built scalable RESTful APIs using Spring Boot.
-
-Implemented user management, course enrollment, attendance tracking, examination scheduling, and result management.
-
-Automated attendance tracking, assignment evaluation workflows, and examination result publication.
-
-Implemented secure file uploads for assignments, study materials, notices, and departmental documents.
-
-Designed and optimized normalized MySQL schemas for faculty, departments, courses, attendance, examinations, assignments, and academic records.
-
-Built data visualization capabilities using Chart.js.
+- Architected a secure role-based system supporting **Admin, Faculty, and Department Coordinator** modules.
+- Developed RESTful APIs using Spring Boot for user management, course enrollment, attendance, examinations, and results.
+- Automated attendance tracking, assignment evaluation workflows, and examination result publication.
+- Implemented secure file uploads for assignments, study materials, notices, and departmental documents.
+- Designed normalized MySQL schemas covering faculty, departments, courses, attendance, examinations, assignments, and academic records.
+- Built responsive frontend workflows using Next.js and Tailwind CSS.
+- Integrated Chart.js for data-driven academic interfaces.
 
 </details>
 
-Engineering Focus
+---
 
-Area
+## EXPERIENCE
 
-Focus
+### Full Stack Developer — OG Advertising Pvt. Ltd.
 
-Frontend Engineering
+**June 2022 – Present · Pune, India**
 
-React.js, Next.js, Redux Toolkit, responsive and reusable UI
+Full Stack Developer responsible for designing, developing, optimizing, securing, and deploying enterprise web applications using modern frontend and backend technologies.
 
-Backend Engineering
+**Scope of Work**
 
-Java, Spring Boot, Spring MVC, Spring Security
+- Architected and developed scalable applications using **React.js, Next.js, Java, and Spring Boot**.
+- Built enterprise platforms serving **1,000+ active users**.
+- Developed reusable component-based architectures to improve maintainability.
+- Engineered secure payment gateway integrations through RESTful APIs.
+- Implemented reliable third-party service communication and transaction-processing workflows.
+- Optimized frontend performance using **lazy loading, code splitting, and asset optimization**.
+- Improved Lighthouse Performance Score from **60 to 88**.
+- Implemented role-based authentication and authorization.
+- Developed secure file-upload functionality.
+- Containerized microservices using Docker.
+- Deployed applications to **Azure Virtual Machines**.
+- Implemented CI/CD pipelines for automated and reliable deployments.
 
-API Development
+**Skills**
 
-RESTful APIs, authentication, authorization, third-party integrations
+`React.js` `Next.js` `Java` `Spring Boot` `Spring Security` `REST APIs` `JWT` `MySQL` `Docker` `Azure` `GitHub Actions` `JavaScript` `TypeScript`
 
-Security
+---
 
-JWT, role-based access control, password encryption, validation
+## ACHIEVEMENTS
 
-Database
+<div align="center">
 
-MySQL, normalized relational database design
+| Recognition | Details |
+|:---|:---|
+| **4+ Years Experience** | Professional experience developing full-stack software applications |
+| **1,000+ Active Users** | Enterprise applications developed and maintained in production |
+| **60% Operational Improvement** | Reduced manual grievance-query handling through workflow automation |
+| **60 → 88 Lighthouse Score** | Improved frontend performance through lazy loading, code splitting and asset optimization |
+| **500+ Students Supported** | Student Grievance Management System serving a large academic user base |
+| **End-to-End Engineering** | Experience across requirements, architecture, APIs, databases, security, testing and deployment |
 
-Performance
+</div>
 
-Lazy loading, code splitting, asset optimization
+---
 
-Architecture
+## CERTIFICATIONS
 
-Microservices, MVC, event-driven architecture, distributed systems
+> Certification credentials are not listed in the provided resume. The sections below are retained for profile organization without claiming certifications that are not documented.
 
-DevOps
+### AWS
 
-Docker, GitHub Actions, Azure Virtual Machines, AWS
+<img src="https://img.shields.io/badge/AWS-Certifications%20Not%20Listed-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
-Testing
+### Oracle
 
-JUnit
+<img src="https://img.shields.io/badge/Oracle-Certifications%20Not%20Listed-111827?style=for-the-badge&logo=oracle&logoColor=F80000"/>
 
-Development Practices
+### NPTEL
 
-OOP, Agile Scrum, maintainable and reusable code
+<img src="https://img.shields.io/badge/NPTEL-Certifications%20Not%20Listed-111827?style=for-the-badge&logo=academia&logoColor=ffffff"/>
 
-Key Impact
+### Cisco
 
-Metric
+<img src="https://img.shields.io/badge/Cisco-Certifications%20Not%20Listed-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
 
-Result
+---
 
-Professional Experience
+## CODING PROFILES
 
-4+ years
+<div align="center">
 
-Enterprise Platform Users
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
 
-1,000+ active users
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+</a>
 
-Student Users Supported
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+</a>
 
-500+ students
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-111827?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
+</a>
 
-Lighthouse Performance
+</div>
 
-60 → 88
+---
 
-Manual Query Handling Time
+## GITHUB ANALYTICS
 
-60% reduction
+<div align="center">
 
-Education
+<img src="https://github-readme-stats.vercel.app/api?username=TanmayShilimkar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
 
-M.Sc. Computer Science
+<img src="https://streak-stats.demolab.com?user=TanmayShilimkar&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" height="180"/>
 
-Savitribai Phule Pune University, Pune2021 – 2023 · 8.5 CGPA
+<br/>
 
-B.Sc. Computer Science
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayShilimkar&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180"/>
 
-Haribhai V. Desai College of Arts, Commerce & Science, Pune2017 – 2020 · 7.5 CGPA
+</div>
 
-Current Focus
+---
 
-role: Full Stack Software Developer
+## GITHUB TROPHIES
 
-frontend:
-  - React.js
-  - Next.js
-  - Redux Toolkit
-  - TypeScript
+<div align="center">
 
-backend:
-  - Java
-  - Spring Boot
-  - Spring Security
-  - REST APIs
+<img src="https://github-profile-trophy.vercel.app/?username=TanmayShilimkar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
 
-database:
-  - MySQL
+</div>
 
-engineering:
-  - Microservices
-  - Distributed Systems
-  - Multithreading
-  - Concurrency
-  - Performance Optimization
+---
 
-devops:
-  - Docker
-  - GitHub Actions
-  - Microsoft Azure
-  - AWS
+## CONTRIBUTION ACTIVITY
 
-Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="mailto:shilimkartanmay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shilimkartanmay%40gmail.com-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayShilimkar&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Tanmay%20Shilimkar%20%E2%80%94%20Contribution%20Activity" width="100%"/>
 
-<p align="center">
-  <strong>Open to opportunities in Full Stack Development, Software Engineering, React.js, Next.js, Java, and Spring Boot.</strong>
-</p>
+</div>
 
-<p align="center">
-  <i>Building reliable software, improving performance, and turning complex requirements into scalable products.</i>
-</p>
+---
+
+## CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TanmayShilimkar/TanmayShilimkar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
+## CURRENT FOCUS
+
+```yaml
+profile:
+  role: "Full Stack Software Developer"
+  experience: "4+ years"
+
+learning:
+  - "Advanced Java & Spring Boot"
+  - "Spring Security & scalable backend architecture"
+  - "Distributed systems & microservices"
+  - "Cloud-native application development"
+  - "AI-assisted software engineering"
+
+building:
+  - "Scalable enterprise web applications"
+  - "Secure RESTful APIs"
+  - "Reusable React.js and Next.js systems"
+  - "Production-ready Java/Spring Boot services"
+
+exploring:
+  - "System Design"
+  - "Event-Driven Architecture"
+  - "Distributed Systems"
+  - "Performance Engineering"
+  - "AI-assisted development workflows"
+
+open_to:
+  - "Full Stack Software Engineering"
+  - "Java / Spring Boot Engineering"
+  - "React.js / Next.js Engineering"
+  - "Product Engineering"
+  - "Enterprise Software Development"
