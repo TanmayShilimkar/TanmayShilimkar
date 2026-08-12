@@ -42,7 +42,7 @@
 
 ## ABOUT
 
-Full Stack Software Developer with **4+ years of professional experience** designing and developing scalable, secure, and high-performance web applications using **React.js, Next.js, Java, Spring Boot, Spring Security, JWT, REST APIs, and MySQL**.
+Full Stack Software Developer with **4+ years of professional experience** designing and developing scalable, secure, and high-performance web applications using **React.js, Next.js, TypeScript, Java, Spring Boot, Spring Security, JWT, REST APIs, and MySQL**.
 
 Experienced across the complete software development lifecycle — from requirements analysis and system design to backend architecture, frontend engineering, database design, API integration, testing, debugging, deployment, and performance optimization.
 
@@ -99,18 +99,6 @@ Hands-on experience delivering applications serving **1,000+ active users**, opt
 **Development:** IntelliJ IDEA · Postman · Vite · Webpack  
 **Testing:** JUnit  
 **Practices:** Agile Scrum · Responsive Design · Performance Optimization
-
----
-
-## AI / ML EXPERTISE
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| AI-Assisted Software Development | Advanced | Practical use of GitHub Copilot and Claude to accelerate development workflows |
-| AI-Assisted Code Generation | Advanced | Code generation, refactoring, implementation assistance, and development acceleration |
-| AI-Assisted Debugging | Advanced | Using AI tooling to investigate implementation issues and improve development efficiency |
-| AI Engineering | Working | Applying AI-assisted development workflows within software engineering projects |
-| Machine Learning | — | No dedicated ML framework or production ML experience is listed in the resume |
 
 ---
 
@@ -220,30 +208,9 @@ Full Stack Developer responsible for designing, developing, optimizing, securing
 
 ---
 
-## CERTIFICATIONS
+//## CODING PROFILES
 
-> Certification credentials are not listed in the provided resume. The sections below are retained for profile organization without claiming certifications that are not documented.
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Certifications%20Not%20Listed-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certifications%20Not%20Listed-111827?style=for-the-badge&logo=oracle&logoColor=F80000"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications%20Not%20Listed-111827?style=for-the-badge&logo=academia&logoColor=ffffff"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Certifications%20Not%20Listed-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
-
----
-
-## CODING PROFILES
-
+<!--
 <div align="center">
 
 <a href="https://leetcode.com/">
@@ -263,8 +230,7 @@ Full Stack Developer responsible for designing, developing, optimizing, securing
 </a>
 
 </div>
-
----
+-->
 
 ## GITHUB ANALYTICS
 
@@ -302,21 +268,11 @@ Full Stack Developer responsible for designing, developing, optimizing, securing
 
 ---
 
-## CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TanmayShilimkar/TanmayShilimkar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
 ## CURRENT FOCUS
 
 ```yaml
 profile:
-  role: "Full Stack Software Developer"
+  role: "Full Stack Software Enginner"
   experience: "4+ years"
 
 learning:
@@ -343,5 +299,3 @@ open_to:
   - "Full Stack Software Engineering"
   - "Java / Spring Boot Engineering"
   - "React.js / Next.js Engineering"
-  - "Product Engineering"
-  - "Enterprise Software Development"
