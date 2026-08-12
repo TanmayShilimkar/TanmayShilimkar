@@ -208,8 +208,6 @@ Full Stack Developer responsible for designing, developing, optimizing, securing
 
 ---
 
-//## CODING PROFILES
-
 <!--
 <div align="center">
 
