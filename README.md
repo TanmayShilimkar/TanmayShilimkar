@@ -57,9 +57,6 @@ Hands-on experience delivering applications serving **1,000+ active users**, opt
 - React.js / Next.js Developer
 - Software Engineer
 - Backend Engineer
-- Product Engineering Roles
-- Enterprise Application Development
-- AI-assisted Software Engineering
 
 ---
 
