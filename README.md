@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=TANMAY%20SHILIMKAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=TANMAY%20SHILIMKAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Full+Stack+Software+Developer;React.js+%7C+Next.js+%7C+Java+%7C+Spring+Boot;RESTful+APIs+%7C+Spring+Security+%7C+MySQL;Scalable+%26+Secure+Enterprise+Applications;Performance+Optimization+%7C+Cloud+%7C+Docker" alt="Typing SVG"/>
 
